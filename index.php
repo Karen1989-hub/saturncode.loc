@@ -167,7 +167,7 @@
                         <div class="content-right-margin-20">
                             <p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay02" data-animation="fade-anim">Սատուռն Կոդ ընկերությունը սկսել է
                                 իր գործունեությունը թվային տեխնոլոգիաների շուկայում 2020թ: Գրասենյակը գտնվում է Երևան քաղաքում: Փորձառու մասնագետների առկայությունը հնարաորություն է
-                                տալիս ստեղծել միջազգային ստանդարտներին համապատասխանող, բարձր որակի և միևնույն ժամանակ մատչելի պրոդուկտներ: </p>
+                                տալիս ստեղծել միջազգային ստանդարտներին համապատասխանող, բարձր որակի և միևնույն ժամանակ մատչելի արտադրանք: </p>
                         </div>
                     </div><!-- column end -->
                     <!-- column start -->
@@ -175,14 +175,14 @@
                         <div class="content-left-margin-20">
                             <p data-animation-child class="p-style-medium text-color-5 fade-anim-box tr-delay03" data-animation="fade-anim">Սատուռն Կոդ ընկերությունը մասնագիտացած է
                                 բիզնեսի կառավարման ծրագրային լուծումների, վեբ տեխնոլոգիաների, որոնողական առաջխաղացման ուղղություններով:
-                                Մեր նպատակն է շուկան ապահովել լավագույն ֆունկցիանալությամբ և գներով ծրագրային ապահովմամբ: Մենք ապահովում ենք խիստ և
-                                բազմաստիճան վորակի վերահսկում պրոդուկտների ստեղծման բոլոր էտապներում:</p>
+                                Մեր նպատակն է շուկան ապահովել լավագույն ֆունկցիոնալությամբ և գներով ծրագրային ապահովմամբ: Մենք ապահովում ենք խիստ և
+                                բազմաստիճան որակի վերահսկում արտադրանքի ստեղծման բոլոր փուլերում:</p>
                         </div>
                     </div><!-- column end -->
                     <!-- column start -->
                     <div class="twelve-columns text-center">
                         <p data-animation-child class="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04" data-animation="fade-anim">ՍԱՏՈՒՌՆ ԿՈԴ ընկերության
-                        հիմնադիր տնորեններ Կ.Արոյան , Ա.Բաբայան</p>
+                        հիմնադիր տնօրեններ Կ.Արոյան , Ա.Բաբայան</p>
                     </div><!-- column end -->
                 </div><!-- flex-container end -->
             </div><!-- container end -->
@@ -213,7 +213,7 @@
                                     <span data-animation-child class="overlay-anim-box2 overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">Վեբ ծրագրավորում</span><br>
 
                                 </h3>
-                                <p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Մենք պատրաստում ենք ցանկացած բարդության վեբ կայքեր , ապահովելով ամենատարբեր ֆունկցիանալությամբ և կրեատիվ դիզայնով:</p>
+                                <p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Մենք պատրաստում ենք ցանկացած բարդության վեբ կայքեր , ապահովելով ամենատարբեր ֆունկցիոնալությամբ և կրեատիվ դիզայնով:</p>
 
                                 <div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
                                     <a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
@@ -255,7 +255,7 @@
 
                                 </h3>
                                 <p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Ցանկացած վեբ կայքում դիզայնը առաջինն է ինչին ուշադրություն են դարձնում հաճախորդները և հետևաբար
-                                    ժամանակակից և կրեատիվ դիզայնը մեծ դեր ունեն կայքի գնահատման վրա:</p>
+                                    ժամանակակից և կրեատիվ դիզայնը մեծ դեր ունեն կայքի գնահատման համար:</p>
 
                                 <div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
                                     <a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
@@ -355,62 +355,6 @@
         </div><!-- container end -->
     </section><!-- section end -->
 
-    <!-- light-bg-2 start -->
-    <div class="light-bg-2 top-bottom-padding-120" data-midnight="black">
-        <!-- testimonials-slider start -->
-        <div class="testimonials-slider container small">
-            <!-- swiper-wrapper start -->
-            <div class="swiper-wrapper">
-                <!-- slide start -->
-                <div class="swiper-slide text-center">
-                    <img src="images/testimonials/ArmenM.jpg" alt="author">
-                    <div class="testimonials-content">
-                        <p class="text-color-4 p-style-bold">Copper mug vexillologist +1 prism iPhone fashion axe portland. Hella quinoa woke blog af umami tacos freegan vinyl snackwave microdosing. Fanny pack direct trade XOXO drinking vinegar. Live-edge kinfolk master cleanse brooklyn meh organic man braid. Actually humblebrag sriracha authentic chia. IPhone glossier schlitz fam, la croix keytar retro offal. Artisan selfies mlkshk pinterest gastropub knausgaard live-edge.</p>
-                    </div>
-                    <div class="text-color-1 small-title-oswald">
-                        Balanchaev Balancha, <span class="text-color-2">Investor</span>
-                    </div>
-                </div><!-- slide end -->
-                <!-- slide start -->
-                <div class="swiper-slide text-center">
-                    <img src="images/testimonials/GevorS.jpg" alt="author">
-                    <div class="testimonials-content">
-                        <p class="text-color-4 p-style-bold">Պատվիրելենք կայք հյուրանոցի համար: Ամեն ինչ կատարվելա ժամկետում:
-                            Հաշվի են առնվել բոլոր ցանկությունները: Աշխատակիցները աշխատանքին մոտեցելեն ստեղծագործաբար:
-                            Խորհուրդ ենք տալիս բոլորին:</p>
-                    </div>
-                    <div class="text-color-1 small-title-oswald">
-                        Գևորգ Սոլոյան, <span class="text-color-2">Երաժիշտ</span>
-                    </div>
-                </div><!-- slide end -->
-
-                <!-- slide start -->
-                <div class="swiper-slide text-center">
-                    <img src="images/testimonials/Samo.jpg" alt="author">
-                    <div class="testimonials-content">
-                        <p class="text-color-4 p-style-bold">Chambray enamel pin synth shabby chic palo santo. Franzen 90's man bun wayfarers, put a bird on it twee four loko roof party shabby chic kale chips photo booth salvia mixtape lumbersexual. Pug kickstarter hammock unicorn, cardigan ennui celiac roof party. Ramps pitchfork direct trade, food truck tacos biodiesel craft beer. Af hammock listicle vape banjo echo park meditation organic cred subway tile. Echo park DIY.</p>
-                    </div>
-                    <div class="text-color-1 small-title-oswald">
-                        Balanchaev Balancha, <span class="text-color-2">Investor</span>
-                    </div>
-                </div><!-- slide end -->
-                <!-- slide start -->
-                <div class="swiper-slide text-center">
-                    <img src="images/testimonials/Sergey.jpg" alt="author">
-                    <div class="testimonials-content">
-                        <p class="text-color-4 p-style-bold">Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos fashion axe aesthetic vegan sustainable taiyaki thundercats jean shorts tousled cloud bread waistcoat kogi. Cloud bread cardigan messenger bag raw denim swag drinking vinegar. Yuccie jianbing bespoke retro, photo booth salvia hella meh post-ironic cornhole tacos plaid.</p>
-                    </div>
-                    <div class="text-color-1 small-title-oswald">
-                        Fred Kinney, <span class="text-color-2">Designer</span>
-                    </div>
-                </div><!-- slide end -->
-            </div><!-- swiper-wrapper end -->
-
-            <!-- swiper-pagination -->
-            <div class="swiper-pagination"></div>
-        </div><!-- testimonials-slider end -->
-    </div><!-- light-bg-2 end -->
-
     <!-- video-content-bg start -->
 <!--    <div class="video-content-bg" style="background-image:url(images/backgrounds/business-calligraphy-chinese-lanterns-1455969.jpg)">-->
 <!--        <div class="bg-overlay"></div>-->
@@ -425,8 +369,8 @@
         <div class="container">
             <!-- text-center start -->
             <div data-animation-container class="text-center">
-                <h2 data-animation-child class="large-title text-height-10 text-color-1 overlay-anim-box2" data-animation="overlay-anim2">From the blog</h2><br>
-                <p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">Check our latest news</p>
+                <h2 data-animation-child class="large-title text-height-10 text-color-1 overlay-anim-box2" data-animation="overlay-anim2">Բլոգ</h2><br>
+                <p data-animation-child class="fade-anim-box tr-delay02 text-color-1 xsmall-title-oswald top-margin-5" data-animation="fade-anim">Մեր վերջին նորությունները</p>
             </div><!-- text-center end -->
 
             <!-- flex-container start -->
@@ -449,7 +393,7 @@
                             <ul data-animation-child class="blog-category top-margin-30 fade-anim-box tr-delay04 text-color-2" data-animation="fade-anim">
                                 <li class="p-letter-style pointer-small hover-color"><a href="#">Հաշվի առնելով կոռոնավիռուսով</a></li>
                                 <li class="p-letter-style pointer-small hover-color"><a href="#">պայմանավորված ճգնաժամը</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">գօրծում են մեծ զեղջեր</a></li>
+                                <li class="p-letter-style pointer-small hover-color"><a href="#">գործում են մեծ զեղջեր</a></li>
                                 <li class="p-letter-style pointer-small hover-color"><a href="#">կոմերցիոն կայքերի համար</a></li>
                             </ul>
 
@@ -510,21 +454,6 @@
                     <li>
                         <div class="flip-btn-box">
                             <a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="flip-btn-box">
-                            <a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="flip-btn-box">
-                            <a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="flip-btn-box">
-                            <a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
                         </div>
                     </li>
                 </ul>
