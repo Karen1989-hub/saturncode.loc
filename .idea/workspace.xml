@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719af692-749c-4af3-a81d-dd5908f720bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backgrounds/adolescent-adult-diversity-1034361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backgrounds/art-artistic-artsy-1988681.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backgrounds/bald-casual-facial-hair-1708528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backgrounds/beautiful-black-close-up-1689731.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backgrounds/double-exposure-2390185_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backgrounds/pexels-photo-1806031.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../das1.loc" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,6 +51,8 @@
       <workItem from="1587211097185" duration="3091000" />
       <workItem from="1587223522433" duration="10000" />
       <workItem from="1587223533943" duration="562000" />
+      <workItem from="1587299986276" duration="3463000" />
+      <workItem from="1587396337625" duration="33000" />
     </task>
     <servers />
   </component>
@@ -53,13 +60,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587223530895">
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587303454601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587223530895" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587211097281">
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587303454601" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587396368402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587211097281" />
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587396368402" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587396341547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587396341547" />
   </component>
 </project>

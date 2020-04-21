@@ -78,21 +78,21 @@
                 <span class="nav-btn active" data-text="Գլխավոր">Գլխավոր</span>
             </a>
 
-            <div class="nav-bg" style="background-image: url(images/backgrounds/pexels-photo-1806031.jpg);"></div>
+            <div class="nav-bg" style="background-image: url(images/backgrounds/logonex.PNG);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
             <a href="about.html" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Մեր Մասին">Մեր Մասին</span>
             </a>
-            <div class="nav-bg" style="background-image: url(images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+            <div class="nav-bg" style="background-image: url(images/backgrounds/unnamed.jpg);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
             <a href="services.html" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Ծառայություններ">Ծառայություններ</span>
             </a>
-            <div class="nav-bg" style="background-image: url(images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+            <div class="nav-bg" style="background-image: url(images/backgrounds/servicesbg.jpg);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change dropdown-open">
@@ -100,7 +100,7 @@
                 <span class="nav-btn" data-text="Պորտֆոլիո">Պորտֆոլիո</span>
             </a>
 
-            <div class="nav-bg" style="background-image: url(images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+            <div class="nav-bg" style="background-image: url(images/backgrounds/businesscardportfolio.jpg);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change dropdown-open">
@@ -109,14 +109,14 @@
             </a>
 
 
-            <div class="nav-bg" style="background-image: url(images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+            <div class="nav-bg" style="background-image: url(images/backgrounds/blogbg.jpg);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
             <a href="contact.html" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Հետադարձ կապ">Հետադարձ կապ</span>
             </a>
-            <div class="nav-bg" style="background-image: url(images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+            <div class="nav-bg" style="background-image: url(images/backgrounds/contactbg.jpg);"></div>
         </li><!-- nav-box end -->
     </ul><!-- nav-menu end -->
 </nav><!-- nav-container end -->
