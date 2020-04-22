@@ -9048,3 +9048,6 @@ body.out .swiper-slide-active .portfolio-slider-fade {
 .partnersLogo{
 	width: 150%;
 }
+.blogSize{
+	font-size: 0.5em!important;
+}

@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="719af692-749c-4af3-a81d-dd5908f720bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/adolescent-adult-diversity-1034361.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/art-artistic-artsy-1988681.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/bald-casual-facial-hair-1708528.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/beautiful-black-close-up-1689731.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/double-exposure-2390185_1920.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/pexels-photo-1806031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +48,8 @@
       <workItem from="1587223533943" duration="562000" />
       <workItem from="1587299986276" duration="3463000" />
       <workItem from="1587396337625" duration="33000" />
+      <workItem from="1587475958859" duration="12013000" />
+      <workItem from="1587567016576" duration="57000" />
     </task>
     <servers />
   </component>
@@ -64,13 +61,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587303454601" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587396368402">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587567071704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587396368402" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587396341547">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587567071704" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587567062665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587396341547" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587567062665" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587480656800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587480656800" />
   </component>
 </project>

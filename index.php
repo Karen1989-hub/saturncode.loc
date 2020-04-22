@@ -104,7 +104,7 @@
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change dropdown-open">
-            <a class="pointer-large nav-link">
+            <a href="views/blog.php" class="pointer-large nav-link">
                 <span class="nav-btn" data-text="Բլոգ">Բլոգ</span>
             </a>
 
@@ -113,7 +113,7 @@
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
-            <a href="contact.html" class="animsition-link pointer-large nav-link">
+            <a href="views/contact.php" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Հետադարձ կապ">Հետադարձ կապ</span>
             </a>
             <div class="nav-bg" style="background-image: url(images/backgrounds/contactbg.jpg);"></div>
@@ -423,12 +423,12 @@
         <div class="three-columns bottom-padding-60">
             <div class="content-left-right-margin-10">
                 <ul class="footer-menu text-color-4">
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index-2.html">Գլխավոր</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="#">Գլխավոր</a></li>
                     <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">Մեր Մասին</a></li>
                     <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Ծառայություններ</a></li>
                     <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Պորտֆոլիո</a></li>
                     <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Բլոգ</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.html">Հետադարձ Կապ</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="views/contact.php">Հետադարձ Կապ</a></li>
                 </ul>
             </div>
         </div><!-- column end -->
