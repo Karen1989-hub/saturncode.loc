@@ -4,9 +4,19 @@
     <list default="true" id="719af692-749c-4af3-a81d-dd5908f720bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/adult-bear-beautiful-792535.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/adult-brainstorming-business-1437908.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/apple-brainstorming-business-908288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/apple-computer-desk-159807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/hands-indoors-man-1204001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/ArmenM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/GevorS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/Samo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonials/Sergey.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/services.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +68,7 @@
       <workItem from="1587729656247" duration="3543000" />
       <workItem from="1587804088611" duration="782000" />
       <workItem from="1587805599448" duration="1328000" />
-      <workItem from="1587807260265" duration="6329000" />
+      <workItem from="1587807260265" duration="15274000" />
     </task>
     <servers />
   </component>
@@ -66,10 +76,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587303454601">
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587827067419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587303454601" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587827067419" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587804869296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

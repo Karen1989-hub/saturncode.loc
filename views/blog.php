@@ -84,7 +84,7 @@
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
-            <a href="about.html" class="animsition-link pointer-large nav-link">
+            <a href="about.php" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Մեր Մասին">Մեր Մասին</span>
             </a>
             <div class="nav-bg" style="background-image: url(../images/backgrounds/unnamed.jpg);"></div>
