@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>XEN</title>
+    <title>SATURN CODE</title>
 
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -89,7 +89,7 @@
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
-            <a href="services.html" class="animsition-link pointer-large nav-link">
+            <a href="services.php" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Ծառայություններ">Ծառայություններ</span>
             </a>
             <div class="nav-bg" style="background-image: url(../images/backgrounds/servicesbg.jpg);"></div>
@@ -138,7 +138,7 @@
                         <h2 class="large-title-bold">
                             <span class="load-title-fill tr-delay03" data-text="Լավագույն">Լավագույն</span><br>
                             <span class="load-title-fill tr-delay04" data-text="լուծումը">լուծումը</span><br>
-                            <span class="load-title-fill tr-delay05" data-text="դզեր համար">դզեր համար</span>
+                            <span class="load-title-fill tr-delay05" data-text="ձեր համար">ձեր համար</span>
                         </h2>
 
                     </div>
@@ -177,15 +177,15 @@
                         <div data-animation-container class="content-right-margin-20">
                             <p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Էլ. հասցե</p>
                             <p class="title-style text-color-4">
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">palo listicle</span><br>
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">vape banjo</span><br>
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">meditation</span>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2"></span><br>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2"></span><br>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2"></span>
                             </p>
                             <h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
                                 <a href="#" class="flip-btn pointer-large" data-text="email@xen_agency.com">email@xen_agency.com</a>
                             </h6>
                             <h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-                                <a href="#" class="flip-btn pointer-large" data-text="email@xen_job.com">email@xen_job.com</a>
+                                <a href="#" class="flip-btn pointer-large" data-text=""></a>
                             </h6>
                         </div>
                     </div><!-- column end -->
@@ -194,9 +194,9 @@
                         <div data-animation-container class="content-left-right-margin-10">
                             <p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Այցելեք մեզ</p>
                             <h6 class="title-style text-color-4">
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">PO Box 223158</span><br>
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Oliver Street</span><br>
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">Victoria 2006</span>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2"></span><br>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2"></span><br>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2"></span>
                             </h6>
                             <div data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
                                 <a href="#" class="flip-btn pointer-large" data-text="open in google maps">open in google maps</a>
@@ -208,12 +208,12 @@
                         <div data-animation-container class="content-left-margin-20">
                             <p data-animation-child class="small-title-oswald red-color overlay-anim-box2" data-animation="overlay-anim2">Զանգեք մեզ</p>
                             <p class="title-style text-color-4">
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">organic cred</span><br>
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Echo park DIY</span><br>
-                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">hashtag irony</span>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">+374 98 97 90 50</span><br>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">+374 94 02 03 91</span><br>
+                                <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2"></span>
                             </p>
                             <h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-                                <a href="#" class="flip-btn pointer-large" data-text="+23 8 8532 7834">+23 8 8532 7834</a>
+                                <a href="#" class="flip-btn pointer-large" data-text=""></a>
                             </h6>
                         </div>
                     </div><!-- column end -->

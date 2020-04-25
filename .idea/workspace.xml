@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="719af692-749c-4af3-a81d-dd5908f720bd" name="Default Changelist" comment="" />
+    <list default="true" id="719af692-749c-4af3-a81d-dd5908f720bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +53,12 @@
       <workItem from="1587475958859" duration="12013000" />
       <workItem from="1587567016576" duration="57000" />
       <workItem from="1587581725492" duration="1138000" />
+      <workItem from="1587628966265" duration="3229000" />
+      <workItem from="1587725223539" duration="50000" />
+      <workItem from="1587729656247" duration="3543000" />
+      <workItem from="1587804088611" duration="782000" />
+      <workItem from="1587805599448" duration="1328000" />
+      <workItem from="1587807260265" duration="6329000" />
     </task>
     <servers />
   </component>
@@ -58,14 +70,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587303454601" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587567071704">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587804869296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587567071704" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587567062665">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587804869296" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587725223528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587567062665" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587725223528" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587480656800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

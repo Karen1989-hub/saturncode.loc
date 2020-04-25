@@ -89,7 +89,7 @@
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
-            <a href="services.html" class="animsition-link pointer-large nav-link">
+            <a href="views/services.php" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Ծառայություններ">Ծառայություններ</span>
             </a>
             <div class="nav-bg" style="background-image: url(images/backgrounds/servicesbg.jpg);"></div>
@@ -181,8 +181,10 @@
                     </div><!-- column end -->
                     <!-- column start -->
                     <div class="twelve-columns text-center">
-                        <p data-animation-child class="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04" data-animation="fade-anim">ՍԱՏՈՒՌՆ ԿՈԴ ընկերության
-                        հիմնադիր տնօրեններ Կ.Արոյան , Ա.Բաբայան</p>
+<!--                        chgrvac text start-->
+                        <p data-animation-child class="p-letter-style text-color-4 text-height-13 fade-anim-box tr-delay04" data-animation="fade-anim">
+                        </p>
+<!--                        chgrvac text end-->
                     </div><!-- column end -->
                 </div><!-- flex-container end -->
             </div><!-- container end -->

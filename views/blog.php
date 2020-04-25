@@ -2,15 +2,17 @@
 <html lang="en">
 
 <!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Apr 2020 15:32:56 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>XEN</title>
+    <title>SATURN CODE</title>
 
     <!-- fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700"
+          rel="stylesheet" type="text/css">
 
     <!-- styles -->
     <link href="../css/plugins.css" rel="stylesheet" type="text/css">
@@ -73,7 +75,7 @@
     <!-- nav-menu start -->
     <ul class="nav-menu dark-bg-1">
         <!-- nav-box start -->
-        <li class="nav-box nav-bg-change active dropdown-open">
+        <li class="nav-box nav-bg-change dropdown-open">
             <a href="../index.php" class="pointer-large nav-link">
                 <span class="nav-btn " data-text="Գլխավոր">Գլխավոր</span>
             </a>
@@ -89,7 +91,7 @@
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
-            <a href="services.html" class="animsition-link pointer-large nav-link">
+            <a href="services.php" class="animsition-link pointer-large nav-link">
                 <span class="nav-btn" data-text="Ծառայություններ">Ծառայություններ</span>
             </a>
             <div class="nav-bg" style="background-image: url(../images/backgrounds/servicesbg.jpg);"></div>
@@ -103,18 +105,17 @@
             <div class="nav-bg" style="background-image: url(../images/backgrounds/businesscardportfolio.jpg);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
-        <li class="nav-box nav-bg-change dropdown-open">
+        <li class="nav-box nav-bg-change active dropdown-open">
             <a href="blog.php" class="pointer-large nav-link">
-                <span class="nav-btn" data-text="Բլոգ">Բլոգ</span>
+                <span class="nav-btn active" data-text="Բլոգ">Բլոգ</span>
             </a>
-
 
             <div class="nav-bg" style="background-image: url(../images/backgrounds/blogbg.jpg);"></div>
         </li><!-- nav-box end -->
         <!-- nav-box start -->
         <li class="nav-box nav-bg-change">
             <a href="contact.php" class="animsition-link pointer-large nav-link">
-                <span class="nav-btn active"  data-text="Հետադարձ կապ">Հետադարձ կապ</span>
+                <span class="nav-btn" data-text="Հետադարձ կապ">Հետադարձ կապ</span>
             </a>
             <div class="nav-bg" style="background-image: url(../images/backgrounds/contactbg.jpg);"></div>
         </li><!-- nav-box end -->
@@ -126,7 +127,8 @@
     <!-- page-head start -->
     <section id="up" class="page-head flex-min-height-box dark-bg-1">
         <!-- page-head-bg -->
-        <div class="page-head-bg overlay-loading2" style="background-image: url(../images/backgrounds/blogbg.jpg);"></div>
+        <div class="page-head-bg overlay-loading2"
+             style="background-image: url(../images/backgrounds/blogbg.jpg);"></div>
 
         <!-- flex-min-height-inner start -->
         <div class="flex-min-height-inner">
@@ -137,8 +139,10 @@
                     <div class="content-left-margin-40">
                         <h2 class="large-title-bold">
                             <span class="load-title-fill tr-delay03 blogSize" data-text="Ստուգեք">Check our</span><br>
-                            <span class="load-title-fill tr-delay04 blogSize" data-text="մեր վերջին">latest news</span><br>
-                            <span class="load-title-fill tr-delay05 blogSize" data-text="նորությունները">and stories</span>
+                            <span class="load-title-fill tr-delay04 blogSize"
+                                  data-text="մեր վերջին">latest news</span><br>
+                            <span class="load-title-fill tr-delay05 blogSize" data-text="նորությունները">and stories</span><br>
+
                         </h2>
 
                         <!--<p class="p-style-bold-up text-height-20 d-flex-wrap"><span class="load-title-fill tr-delay08" data-text="Ստուգեք">XOXO fam brunch</span></p>
@@ -168,226 +172,58 @@
         <div class="flex-container">
             <!-- column start -->
             <div class="eight-columns latest-news">
-                <!-- blog-entry start -->
-                <article class="bottom-padding-90">
-                    <div class="light-bg-2">
-                        <a href="single_post.html" class="pointer-large animsition-link hover-box d-block">
-                            <div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-                                <img class="hover-img" src="../images/blog/bodypaint-female-girl-50595.jpg" alt="blog img">
-                            </div>
-                            <div class="content-padding-l-r-20" data-animation-container>
-                                <h3 class="title-style text-color-1 top-margin-30 blog-title">
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Hoodie roof</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">party organic</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">umami kombucha</span>
-                                </h3>
-                                <p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Hoodie roof party organic umami kombucha thundercats. Pok pok normcore snackwave venmo deep v, quinoa everyday carry la....</p>
-                            </div>
-                        </a>
-                        <div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-thumbtack text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-                            </ul>
-                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-tags text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-                            </ul>
-                            <div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Balanchaev Balancha</a>
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">March 20, 2019</a>
-                            </div>
-                        </div>
-                    </div>
-                </article><!-- blog-entry end -->
 
-                <!-- blog-entry start -->
-                <article class="bottom-padding-90">
-                    <div class="light-bg-2">
-                        <a href="single_post.html" class="pointer-large animsition-link hover-box d-block">
-                            <div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-                                <img class="hover-img" src="../images/blog/auto-automobile-automotive-358201.jpg" alt="blog img">
-                            </div>
-                            <div class="content-padding-l-r-20" data-animation-container>
-                                <h3 class="title-style text-color-1 top-margin-30 blog-title">
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Pok pok authentic</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">fashion axe</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">vegan venmo</span>
-                                </h3>
-                                <p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos...</p>
-                            </div>
-                        </a>
-                        <div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-thumbtack text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-                            </ul>
-                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-tags text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-                            </ul>
-                            <div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Steve Kong</a>
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">March 19, 2019</a>
-                            </div>
-                        </div>
-                    </div>
-                </article><!-- blog-entry end -->
 
-                <!-- blog-entry start -->
+                <!-- blog norutyun start -->
                 <article class="bottom-padding-90">
                     <div class="light-bg-2">
                         <a href="single_post.html" class="pointer-large animsition-link hover-box d-block">
                             <div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-                                <img class="hover-img" src="../images/blog/art-blur-close-up-1826029.jpg" alt="blog img">
+                                <img class="hover-img" src="../images/blog/sale.jpg" alt="blog img">
                             </div>
                             <div class="content-padding-l-r-20" data-animation-container>
                                 <h3 class="title-style text-color-1 top-margin-30 blog-title">
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Cloud bread</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">messenger bag</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">raw denim</span>
+                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2"
+                                          data-animation="overlay-anim2">Սատուռն կոդը</span><br>
+                                    <span data-animation-child
+                                          class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01"
+                                          data-animation="overlay-anim2">աջակցում է մանր</span><br>
+                                    <span data-animation-child
+                                          class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02"
+                                          data-animation="overlay-anim2">ու միջին բիզնեսին</span>
                                 </h3>
-                                <p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Cloud bread cardigan messenger bag raw denim swag drinking vinegar. Yuccie jianbing bespoke retro, photo booth salvia...</p>
+                                <p data-animation-child
+                                   class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2"
+                                   data-animation="fade-anim">Հաշվի առնելով կոռոնավիռուսով պայմանավորված տնտեսական
+                                    ճգնաժամը գործում են մեծ զեղջեր կոմերցիոն կայքերի համար:</p>
                             </div>
                         </a>
                         <div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-thumbtack text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-                            </ul>
-                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-tags text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-                            </ul>
-                            <div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Leila York</a>
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">March 17, 2019</a>
+                            <!--                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">-->
+                            <!--                                <li><i class="fas fa-thumbtack text-color-3"></i></li>-->
+                            <!--                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>-->
+                            <!--                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>-->
+                            <!--                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>-->
+                            <!--                            </ul>-->
+                            <!--                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">-->
+                            <!--                                <li><i class="fas fa-tags text-color-3"></i></li>-->
+                            <!--                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>-->
+                            <!--                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>-->
+                            <!--                            </ul>-->
+                            <div data-animation-child
+                                 class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1"
+                                 data-animation="fade-anim">
+                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Կարեն Արոյան</a>
+                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Մարտ 20, 2020</a>
                             </div>
                         </div>
                     </div>
-                </article><!-- blog-entry end -->
-
-                <!-- blog-entry start -->
-                <article class="bottom-padding-90">
-                    <div class="light-bg-2">
-                        <a href="single_post.html" class="pointer-large animsition-link hover-box d-block">
-                            <div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-                                <img class="hover-img" src="../images/blog/auditorium-lamps-lights-1649683.jpg" alt="blog img">
-                            </div>
-                            <div class="content-padding-l-r-20" data-animation-container>
-                                <h3 class="title-style text-color-1 top-margin-30 blog-title">
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Helvetica hella</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">prism lo-fi</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">activated</span>
-                                </h3>
-                                <p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Helvetica hella vexillologist, prism lo-fi activated charcoal iPhone thundercats irony meggings meh cardigan chartreuse...</p>
-                            </div>
-                        </a>
-                        <div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-thumbtack text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-                            </ul>
-                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-tags text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-                            </ul>
-                            <div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">James Basinski</a>
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">March 16, 2019</a>
-                            </div>
-                        </div>
-                    </div>
-                </article><!-- blog-entry end -->
-
-                <!-- blog-entry start -->
-                <article class="bottom-padding-90">
-                    <div class="light-bg-2">
-                        <a href="single_post.html" class="pointer-large animsition-link hover-box d-block">
-                            <div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-                                <img class="hover-img" src="../images/blog/aerial-shot-conceptual-couple-1781390.jpg" alt="blog img">
-                            </div>
-                            <div class="content-padding-l-r-20" data-animation-container>
-                                <h3 class="title-style text-color-1 top-margin-30 blog-title">
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Distillery man</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">bun truffaut</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">shoreditch</span>
-                                </h3>
-                                <p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Distillery man bun truffaut shoreditch drinking vinegar, ethical organic poke godard migas helvetica. Tousled church...</p>
-                            </div>
-                        </a>
-                        <div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-thumbtack text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-                            </ul>
-                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-tags text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-                            </ul>
-                            <div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Balanchaev Balancha</a>
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">March 15, 2019</a>
-                            </div>
-                        </div>
-                    </div>
-                </article><!-- blog-entry end -->
-
-                <!-- blog-entry start -->
-                <article class="bottom-padding-90">
-                    <div class="light-bg-2">
-                        <a href="single_post.html" class="pointer-large animsition-link hover-box d-block">
-                            <div class="overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2">
-                                <img class="hover-img" src="../images/blog/pexels-photo.jpg" alt="blog img">
-                            </div>
-                            <div class="content-padding-l-r-20" data-animation-container>
-                                <h3 class="title-style text-color-1 top-margin-30 blog-title">
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2" data-animation="overlay-anim2">Plaid retro migas</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay01" data-animation="overlay-anim2">venmo lo-fi</span><br>
-                                    <span data-animation-child class="overlay-anim-box2 hover-content overlay-dark-bg-2 tr-delay02" data-animation="overlay-anim2">ethical artisan</span>
-                                </h3>
-                                <p data-animation-child class="fade-anim-box hover-content tr-delay03 p-style-medium text-color-2" data-animation="fade-anim">Plaid retro migas venmo lo-fi ethical artisan fingerstache seitan you probably haven't heard of them fam keffiyeh...</p>
-                            </div>
-                        </a>
-                        <div class="content-padding-l-r-20 content-padding-bottom-20" data-animation-container>
-                            <ul data-animation-child class="blog-category top-margin-30 fade-anim-box text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-thumbtack text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">branding</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">design</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">art</a></li>
-                            </ul>
-                            <ul data-animation-child class="blog-tags top-margin-10 fade-anim-box tr-delay01 text-color-2" data-animation="fade-anim">
-                                <li><i class="fas fa-tags text-color-3"></i></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">template</a></li>
-                                <li class="p-letter-style pointer-small hover-color"><a href="#">post formats</a></li>
-                            </ul>
-                            <div data-animation-child class="blog-autor-date top-margin-30 fade-anim-box tr-delay02 text-color-1" data-animation="fade-anim">
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">Balanchaev Balancha</a>
-                                <a class="xsmall-title-oswald pointer-small hover-color" href="#">March 13, 2019</a>
-                            </div>
-                        </div>
-                    </div>
-                </article><!-- blog-entry end -->
+                </article><!-- blog norutyun end -->
 
                 <!-- loading more btn start -->
                 <div class="bottom-padding-90 text-center">
                     <div class="arrow-btn-box">
-                        <a href="#" class="arrow-btn pointer-large">Loading more</a>
+                        <a href="#" class="arrow-btn pointer-large">Կարդալ ավելին</a>
                     </div>
                 </div><!-- loading more btn end -->
             </div><!-- column end -->
@@ -401,7 +237,8 @@
                         <div class="top-bottom-padding-90">
                             <form class="form-search">
                                 <input type="text" class="search-control pointer-small" placeholder="Որոնում...">
-                                <button class="search-btn pointer-large" type="button"><i class="fas fa-search"></i></button>
+                                <button class="search-btn pointer-large" type="button"><i class="fas fa-search"></i>
+                                </button>
                             </form>
                         </div><!-- form search end -->
 
@@ -413,16 +250,19 @@
                             <div class="top-margin-30">
                                 <!-- recent-entry start -->
                                 <div class="recent-entry">
-                                    <a href="single_post.html" class="recent-entry-img-box pointer-large animsition-link">
-                                        <img src="../images/blog/pexels-photo-305250.jpg" alt="title">
+                                    <a href="single_post.html"
+                                       class="recent-entry-img-box pointer-large animsition-link">
+                                        <img src="../images/blog/sale.jpg" alt="title">
                                     </a>
                                     <div class="recent-desc">
-                                        <a href="single_post.html" class="xsmall-title-oswald text-color-4 pointer-large animsition-link">Shaman lumbersexual yr portland pug</a>
-                                        <div class="p-style-xsmall text-color-4 text-height-10 top-margin-5">December 28, 2018</div>
+                                        <a href="single_post.html"
+                                           class="xsmall-title-oswald text-color-4 pointer-large animsition-link">Սատուռն
+                                            կոդը աջակցում է մանր ու միջին բիզնեսին:</a>
+                                        <div class="p-style-xsmall text-color-4 text-height-10 top-margin-5">Մարտ 20,
+                                            2020
+                                        </div>
                                     </div>
                                 </div><!-- recent-entry end -->
-
-
 
 
                             </div><!-- recent posts content end -->
@@ -449,19 +289,19 @@
         <!-- column start -->
         <div class="two-columns bottom-padding-60">
             <div class="content-right-margin-10 footer-center-mobile">
-                <img class="footer-logo" src="../images/logo/logo-white.png" alt="logo">
+                <img class="footer-logo" src="images/logo/logo-white.png" alt="logo">
             </div>
         </div><!-- column end -->
         <!-- column start -->
         <div class="three-columns bottom-padding-60">
             <div class="content-left-right-margin-10">
                 <ul class="footer-menu text-color-4">
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="index-2.html">Home</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">About</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Services</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Portfolio</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="blog.html">Blog</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.html">Contact</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="#">Գլխավոր</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">Մեր Մասին</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Ծառայություններ</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Պորտֆոլիո</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Բլոգ</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="views/contact.php">Հետադարձ Կապ</a></li>
                 </ul>
             </div>
         </div><!-- column end -->
@@ -470,8 +310,8 @@
             <div class="content-left-right-margin-10 footer-center-mobile">
                 <ul class="footer-information text-color-4">
                     <li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
-                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+23 8 8532 7834</a></li>
-                    <li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">PO Box 223158 Oliver Street<br><span>East Victoria 2006 UK</span></a></li>
+                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 98 97 90 50</a></li>
+                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 94 02 03 91</a></li>
                 </ul>
             </div>
         </div><!-- column end -->
@@ -489,13 +329,12 @@
                             <a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
                         </div>
                     </li>
-
                 </ul>
             </div>
         </div><!-- column end -->
         <!-- column start -->
         <div class="twelve-columns">
-            <p class="p-letter-style text-color-4 footer-copyright">&copy; Copyright 2019 XEN. Theme by <a href="#">Jinna Gik</a></p>
+            <p class="p-letter-style text-color-4 footer-copyright"><a href="#">All rights reserved. © 2020 "SATURN CODE" LLC</a></p>
         </div><!-- column end -->
     </div><!-- flex-container end -->
 </footer><!-- footer end -->

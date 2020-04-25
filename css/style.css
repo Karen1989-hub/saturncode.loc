@@ -4744,7 +4744,7 @@ body.anim .fade-loading {
 
 body.anim .load-title-fill:before,
 body.anim .load-title-fill:after {
-	width: 100%;
+	width: 160%;
 }
 
 .dark-bg-1 .load-title-fill:before,
@@ -9050,4 +9050,7 @@ body.out .swiper-slide-active .portfolio-slider-fade {
 }
 .blogSize{
 	font-size: 0.5em!important;
+}
+#width2{
+	width: 500px!important;
 }
