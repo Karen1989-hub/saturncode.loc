@@ -10,6 +10,8 @@
 
     <title>SATURN CODE</title>
 
+    <link rel="icon" href="../images/logo/title-logo.JPG">
+
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700"
           rel="stylesheet" type="text/css">
@@ -161,7 +163,7 @@
                 <span class="scroll-arrow"></span>
             </div>
             <div class="scroll-btn-flip-box">
-                <span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+                <span class="scroll-btn-flip" data-text="ներքեվ">ներքեվ</span>
             </div>
         </a><!-- scroll-btn end -->
     </section><!-- page-head end -->
@@ -240,7 +242,8 @@
                                 <button class="search-btn pointer-large" type="button"><i class="fas fa-search"></i>
                                 </button>
                             </form>
-                        </div><!-- form search end -->
+                        </div>
+                        <!-- form search end -->
 
 
                         <!-- recent posts start -->
@@ -289,7 +292,7 @@
         <!-- column start -->
         <div class="two-columns bottom-padding-60">
             <div class="content-right-margin-10 footer-center-mobile">
-                <img class="footer-logo" src="images/logo/logo-white.png" alt="logo">
+                <img class="footer-logo" src="../images/logo/logo-white.png" alt="logo">
             </div>
         </div><!-- column end -->
         <!-- column start -->
@@ -309,9 +312,9 @@
         <div class="four-columns bottom-padding-60">
             <div class="content-left-right-margin-10 footer-center-mobile">
                 <ul class="footer-information text-color-4">
-                    <li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">info@saturn-code.com</a></li>
-                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 98 97 90 50</a></li>
-                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 94 02 03 91</a></li>
+                    <li><a href="#" class="xsmall-title-oswald">info@saturn-code.com</a></li>
+                    <li><a href="#" class="xsmall-title-oswald">+374 98 97 90 50</a></li>
+                    <li><a href="#" class="xsmall-title-oswald">+374 94 02 03 91</a></li>
                 </ul>
             </div>
         </div><!-- column end -->

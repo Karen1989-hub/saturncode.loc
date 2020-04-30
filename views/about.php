@@ -10,6 +10,8 @@
 
     <title>SATURN CODE</title>
 
+    <link rel="icon" href="../images/logo/title-logo.JPG">
+
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700"
           rel="stylesheet" type="text/css">
@@ -175,8 +177,8 @@
                     <!-- column start -->
                     <div class="four-columns">
                         <div class="content-right-margin-20">
-                            <h2 data-animation-child class="title-style title-fill" data-animation="title-fill-anim" data-text="Օվենք">Who We Are</h2><br>
-                            <h2 data-animation-child class="title-style title-fill" data-animation="title-fill-anim" data-text="մենք">Who We Are</h2>
+                            <h2 data-animation-child class="title-style title-fill" data-animation="title-fill-anim" data-text="Մեր">Who We Are</h2><br>
+                            <h2 data-animation-child class="title-style title-fill" data-animation="title-fill-anim" data-text="մասին">Who We Are</h2>
                         </div>
                     </div>
                     <div class="eight-columns">
@@ -230,82 +232,7 @@
     </section><!-- flex-min-height-box end -->
 
     <!-- section start -->
-    <section class="dark-bg-2">
-        <!-- flex-container start -->
-        <div class="flex-container container bottom-padding-60 top-padding-120">
-            <!-- column start -->
-            <div class="four-columns bottom-padding-60">
-                <div data-animation-container class="content-right-margin-20 team-title-box">
-                    <h2 data-animation-child class="small-title-oswald overlay-anim-box2 red-color" data-animation="overlay-anim2">Our Best Experts</h2>
-                    <h3 class="title-style text-color-4">
-                        <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay01" data-animation="overlay-anim2">Team You</span><br>
-                        <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay02" data-animation="overlay-anim2">Want to</span><br>
-                        <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2">Work With</span>
-                    </h3>
-                </div>
-            </div><!-- column end -->
-            <!-- column start -->
-            <div class="four-columns bottom-padding-60">
-                <a data-animation-container href="#" class="content-left-right-margin-10 hover-box pointer-large d-block">
-                    <div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
-                        <img class="hover-img" src="assets/images/team/1.jpg" alt="Balanchaev Balancha">
-                    </div>
-                    <div class="team-content">
-                        <h4 data-animation-child class="small-title-oswald text-color-4 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Balanchaev Balancha</h4><br>
-                        <p data-animation-child class="p-letter-style text-color-4 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Web Designer</p>
-                    </div>
-                </a>
-            </div><!-- column end -->
-            <!-- column start -->
-            <div class="four-columns bottom-padding-60">
-                <a data-animation-container href="#" class="content-left-margin-20 hover-box pointer-large d-block">
-                    <div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
-                        <img class="hover-img" src="assets/images/team/2.jpg" alt="Balanchaev Balancha">
-                    </div>
-                    <div class="team-content">
-                        <h4 data-animation-child class="small-title-oswald text-color-4 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">James Basinski</h4><br>
-                        <p data-animation-child class="p-letter-style text-color-4 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Graphic designer</p>
-                    </div>
-                </a>
-            </div><!-- column end -->
-            <!-- column start -->
-            <div class="four-columns bottom-padding-60">
-                <a data-animation-container href="#" class="content-right-margin-20 hover-box pointer-large d-block">
-                    <div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
-                        <img class="hover-img" src="assets/images/team/3.jpg" alt="Balanchaev Balancha">
-                    </div>
-                    <div class="team-content">
-                        <h4 data-animation-child class="small-title-oswald text-color-4 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Steve Kong</h4><br>
-                        <p data-animation-child class="p-letter-style text-color-4 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Art director</p>
-                    </div>
-                </a>
-            </div><!-- column end -->
-            <!-- column start -->
-            <div class="four-columns bottom-padding-60">
-                <a data-animation-container href="#" class="content-left-right-margin-10 hover-box pointer-large d-block">
-                    <div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
-                        <img class="hover-img" src="assets/images/team/4.jpg" alt="Balanchaev Balancha">
-                    </div>
-                    <div class="team-content">
-                        <h4 data-animation-child class="small-title-oswald text-color-4 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Leila York</h4><br>
-                        <p data-animation-child class="p-letter-style text-color-4 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">Manager</p>
-                    </div>
-                </a>
-            </div><!-- column end -->
-            <!-- column start -->
-            <div class="four-columns bottom-padding-60">
-                <a data-animation-container href="#" class="content-left-margin-20 hover-box pointer-large d-block">
-                    <div data-animation-child class="overlay-anim-box2 overlay-dark-bg-1 team-img-box" data-animation="overlay-anim2">
-                        <img class="hover-img" src="assets/images/team/5.jpg" alt="Balanchaev Balancha">
-                    </div>
-                    <div class="team-content">
-                        <h4 data-animation-child class="small-title-oswald text-color-4 hover-content fade-anim-box tr-delay01" data-animation="fade-anim">Balancha Balanchaevich</h4><br>
-                        <p data-animation-child class="p-letter-style text-color-4 hover-content fade-anim-box tr-delay02" data-animation="fade-anim">web designer</p>
-                    </div>
-                </a>
-            </div><!-- column end -->
-        </div><!-- flex-container end -->
-    </section><!-- section end -->
+    <!-- section end -->
 
     <!-- section start -->
     <section class="light-bg-1 top-bottom-padding-120" data-midnight="black">
@@ -387,9 +314,9 @@
         <div class="four-columns bottom-padding-60">
             <div class="content-left-right-margin-10 footer-center-mobile">
                 <ul class="footer-information text-color-4">
-                    <li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">info@saturn-code.com</a></li>
-                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 98 97 90 50</a></li>
-                    <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 94 02 03 91</a></li>
+                    <li><a href="#" class="xsmall-title-oswald">info@saturn-code.com</a></li>
+                    <li><a href="#" class="xsmall-title-oswald">+374 98 97 90 50</a></li>
+                    <li><a href="#" class="xsmall-title-oswald">+374 94 02 03 91</a></li>
                 </ul>
             </div>
         </div><!-- column end -->

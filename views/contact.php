@@ -9,6 +9,8 @@
 
     <title>SATURN CODE</title>
 
+    <link rel="icon" href="../images/logo/title-logo.JPG">
+
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
 
@@ -152,7 +154,7 @@
                 <span class="scroll-arrow"></span>
             </div>
             <div class="scroll-btn-flip-box">
-                <span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+                <span class="scroll-btn-flip" data-text="ներքեվ">ներքեվ</span>
             </div>
         </a><!-- scroll-btn end -->
     </section><!-- page-head end -->
@@ -182,7 +184,7 @@
                                 <span data-animation-child class="overlay-anim-box2 overlay-light-bg-1 tr-delay03" data-animation="overlay-anim2"></span>
                             </p>
                             <h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
-                                <a href="#" class="flip-btn pointer-large" data-text="email@xen_agency.com">email@xen_agency.com</a>
+                                <a href="#" class="flip-btn pointer-large" data-text="info@saturn-code.com">info@saturn-code.com</a>
                             </h6>
                             <h6 data-animation-child class="flip-btn-box fade-anim-box tr-delay04" data-animation="fade-anim">
                                 <a href="#" class="flip-btn pointer-large" data-text=""></a>

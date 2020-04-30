@@ -9,6 +9,8 @@
 
     <title>SATURN CODE</title>
 
+    <link rel="icon" href="images/logo/title-logo.JPG">
+
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
 
@@ -142,7 +144,7 @@
                 <span class="scroll-arrow"></span>
             </div>
             <div class="scroll-btn-flip-box">
-                <span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+                <span class="scroll-btn-flip" data-text="Scroll">ներքեվ</span>
             </div>
         </a><!-- scroll-btn end -->
     </section><!-- page-head end -->
@@ -218,7 +220,7 @@
                                 <p data-animation-child class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Մենք պատրաստում ենք ցանկացած բարդության վեբ կայքեր , ապահովելով ամենատարբեր ֆունկցիոնալությամբ և կրեատիվ դիզայնով:</p>
 
                                 <div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-                                    <a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
+                                    <a href="index.php" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
                                 </div>
 
                             </div>
@@ -260,7 +262,7 @@
                                     ժամանակակից և կրեատիվ դիզայնը մեծ դեր ունեն կայքի գնահատման համար:</p>
 
                                 <div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-                                    <a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
+                                    <a href="index.php" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
                                 </div>
 
                             </div>
@@ -290,7 +292,7 @@
                                     որոնողական համակարգերում , ինչը զգալիորեն բարձրացնում է կայքի դիտելիությունը:</p>
 
                                 <div data-animation-child class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
-                                    <a href="project.html" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
+                                    <a href="index.php" class="arrow-btn pointer-large animsition-link">Կարդալ ավելին</a>
                                 </div>
 
                             </div>
