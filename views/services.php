@@ -347,12 +347,12 @@
         <div class="three-columns bottom-padding-60">
             <div class="content-left-right-margin-10">
                 <ul class="footer-menu text-color-4">
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="#">Գլխավոր</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">Մեր Մասին</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Ծառայություններ</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Պորտֆոլիո</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Բլոգ</a></li>
-                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="views/contact.php">Հետադարձ Կապ</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="../index.php">Գլխավոր</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.php">Մեր Մասին</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="services.php">Ծառայություններ</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="">Պորտֆոլիո</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.php">Բլոգ</a></li>
+                    <li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.php">Հետադարձ Կապ</a></li>
                 </ul>
             </div>
         </div><!-- column end -->
@@ -360,7 +360,7 @@
         <div class="four-columns bottom-padding-60">
             <div class="content-left-right-margin-10 footer-center-mobile">
                 <ul class="footer-information text-color-4">
-                    <li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">email@xen_agency.com</a></li>
+                    <li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">info@saturn-code.com</a></li>
                     <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 98 97 90 50</a></li>
                     <li><i class="fas fa-mobile-alt"></i><a href="#" class="xsmall-title-oswald">+374 94 02 03 91</a></li>
                 </ul>
