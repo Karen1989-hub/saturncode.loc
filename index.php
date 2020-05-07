@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/home_particles.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Apr 2020 15:26:13 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -472,5 +471,4 @@
 <script src="js/particles_init.js"></script>
 </body>
 
-<!-- Mirrored from www.nurseitmukaytegin.com/envato-templates/xen/home_particles.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Apr 2020 15:26:18 GMT -->
 </html>
