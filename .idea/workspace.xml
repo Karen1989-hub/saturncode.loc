@@ -3,51 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="719af692-749c-4af3-a81d-dd5908f720bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/adolescent-beautiful-beauty-247878.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/adult-blur-brick-walls-846741.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/attractive-background-beautiful-756453.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/attractive-beautiful-beautiful-girl-1028927.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/attractive-beautiful-beauty-1375849.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/blue-boy-daylight-1205033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatars/casual-close-up-eyeglasses-1516680.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/bart-simpson-casual-close-up-1813947copy1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/camera-casual-fashion-2116503.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/closed-eyes-concept-fashion-2035871.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/fullscreen/adult-beautiful-woman-brunette-2177471.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/fullscreen/attractive-beautiful-beauty-2123778.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/fullscreen/black-and-white-face-model-getting-ready-1919235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/fullscreen/blur-blurred-background-close-up-2189907.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/fullscreen/models-adult-casual-wear-2196688.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/abstract-art-bright-682025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/adult-art-artistic-1002237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/aerial-shot-conceptual-couple-1781390.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/art-blooming-bouquet-1480523.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/art-blur-close-up-1826029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/art-dark-ethnic-1038041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/auditorium-lamps-lights-1649683.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/auto-automobile-automotive-358201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/black-background-face-paint-group-2045035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/bodypaint-female-girl-50595.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/fashion-fashion-models-female-1300571.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-1057120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-1280553.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-1334602.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-1670770.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-1707728.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-305250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-348523.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo-573298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/pexels-photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/services.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +28,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dasLaravel.loc" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\saturncode.loc\images\backgrounds\fullscreen" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -105,6 +66,9 @@
       <workItem from="1588249717918" duration="1462000" />
       <workItem from="1588253304364" duration="715000" />
       <workItem from="1588264972182" duration="6236000" />
+      <workItem from="1588341869987" duration="41000" />
+      <workItem from="1588495265045" duration="974000" />
+      <workItem from="1588604031143" duration="48000" />
     </task>
     <servers />
   </component>
@@ -116,14 +80,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588265922793" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1588258413504">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1588604076416">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588258413504" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588258390864">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588604076416" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588604045450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588258390864" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588604045450" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587480656800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

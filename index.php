@@ -128,7 +128,7 @@
     <!-- page-head start -->
     <section id="up" class="page-head flex-min-height-box dark-bg-2 particles-home">
         <!-- page-head-bg -->
-        <div class="page-head-bg" id="particles-js" style="background-image: url(images/backgrounds/fullscreen/my_logo.jpg);"></div>
+        <div class="page-head-bg" id="particles-js" style="background-image: url(images/backgrounds/fullscreen/my_logo1.jpg);"></div>
 
         <!-- flex-min-height-inner start -->
         <div class="flex-min-height-inner">
@@ -144,7 +144,7 @@
                 <span class="scroll-arrow"></span>
             </div>
             <div class="scroll-btn-flip-box">
-                <span class="scroll-btn-flip" data-text="Scroll">ներքեվ</span>
+                <span class="scroll-btn-flip" data-text="ներքեվ">ներքեվ</span>
             </div>
         </a><!-- scroll-btn end -->
     </section><!-- page-head end -->
